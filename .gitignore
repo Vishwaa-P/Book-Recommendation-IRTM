@@ -1,0 +1,15 @@
+# Virtual Environment
+Irtm_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Uncomment below ONLY if dataset is too large for GitHub (>100MB)
+Project_Code/anotherOne.csv
